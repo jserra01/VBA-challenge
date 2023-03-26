@@ -7,7 +7,7 @@ UCF Data Analysis - Module 2 Challenge: VBA Scripting
 ## Description
 VBA Script to create summary statistics for Excel worksheet containing daily stock price Open, Close, and Volume.  Data organized annually per worksheet.
 * Identify for each stock, ticker symbol, yearly price change, yearly percent change, and total volume
-* Highlight losses and gains with red or green filling
+* Highlight losses and gains with red or green cell formatting
 * Identify greatest percent increase stock and value, greatest decrease stock and value, and greatest total volume and value
 
 ## Visuals
